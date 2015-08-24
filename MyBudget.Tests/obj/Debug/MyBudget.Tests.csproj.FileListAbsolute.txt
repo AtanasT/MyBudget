@@ -1,0 +1,17 @@
+C:\Users\Atanas\Documents\MyBudget\MyBudget\MyBudget.Tests\bin\Debug\MyBudget.Tests.dll
+C:\Users\Atanas\Documents\MyBudget\MyBudget\MyBudget.Tests\bin\Debug\MyBudget.Tests.pdb
+C:\Users\Atanas\Documents\MyBudget\MyBudget\MyBudget.Tests\bin\Debug\MyBudget.dll
+C:\Users\Atanas\Documents\MyBudget\MyBudget\MyBudget.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Atanas\Documents\MyBudget\MyBudget\MyBudget.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Atanas\Documents\MyBudget\MyBudget\MyBudget.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Atanas\Documents\MyBudget\MyBudget\MyBudget.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Atanas\Documents\MyBudget\MyBudget\MyBudget.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Atanas\Documents\MyBudget\MyBudget\MyBudget.Tests\bin\Debug\MyBudget.pdb
+C:\Users\Atanas\Documents\MyBudget\MyBudget\MyBudget.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Atanas\Documents\MyBudget\MyBudget\MyBudget.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Atanas\Documents\MyBudget\MyBudget\MyBudget.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Atanas\Documents\MyBudget\MyBudget\MyBudget.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Atanas\Documents\MyBudget\MyBudget\MyBudget.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Atanas\Documents\MyBudget\MyBudget\MyBudget.Tests\obj\Debug\MyBudget.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Documents\MyBudget\MyBudget\MyBudget.Tests\obj\Debug\MyBudget.Tests.dll
+C:\Users\Atanas\Documents\MyBudget\MyBudget\MyBudget.Tests\obj\Debug\MyBudget.Tests.pdb
